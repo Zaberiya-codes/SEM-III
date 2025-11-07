@@ -12,3 +12,4 @@ public class VotingCheck {
             System.out.println("sorry, you must be at least 18.");
         }
     }
+
